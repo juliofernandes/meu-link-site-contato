@@ -1,0 +1,19 @@
+
+<!-- whats app -->
+
+<div id="div_fixa"> <a href="whatsapp.php" target="_blank"> <img src="imagens/whatsapp-api.png"></a></div>
+  
+  <style type="text/css">
+   #div_fixa {
+  
+ 	position:fixed; 
+ 	margin:30px;
+ 	margin-top: 300px;
+ 	z-index:5000;
+ 	bottom: 0px;
+ }
+</style>
+
+<!-- whats app -->
+
+
